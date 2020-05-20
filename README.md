@@ -6,3 +6,4 @@ The system is comprised of two transponder units (up to 20 possible on the same 
 
 ![2 Units](https://github.com/tday01/CS122A-Project/blob/master/images/2%20units.jpg)
 
+#### [Short Video Demo of Basic Features](https://www.youtube.com/watch?v=jCFYcRYhyFw)
